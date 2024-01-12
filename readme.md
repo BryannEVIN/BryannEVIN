@@ -5,4 +5,4 @@
 - VSCode🗿
 - HTML
 - CSS
-- Javascript 
+- Javascript 💩
